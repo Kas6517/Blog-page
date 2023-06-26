@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kas6517/blog-page.git/static/css/main.4824783b.css",
+    "main.js": "/Kas6517/blog-page.git/static/js/main.70068684.js",
+    "index.html": "/Kas6517/blog-page.git/index.html",
+    "main.4824783b.css.map": "/Kas6517/blog-page.git/static/css/main.4824783b.css.map",
+    "main.70068684.js.map": "/Kas6517/blog-page.git/static/js/main.70068684.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4824783b.css",
+    "static/js/main.70068684.js"
+  ]
+}
