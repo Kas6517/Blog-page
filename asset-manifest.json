@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Kas6517/blog-page.git/static/css/main.4824783b.css",
-    "main.js": "/Kas6517/blog-page.git/static/js/main.70068684.js",
-    "index.html": "/Kas6517/blog-page.git/index.html",
-    "main.4824783b.css.map": "/Kas6517/blog-page.git/static/css/main.4824783b.css.map",
-    "main.70068684.js.map": "/Kas6517/blog-page.git/static/js/main.70068684.js.map"
+    "main.css": "/blog-page/static/css/main.4824783b.css",
+    "main.js": "/blog-page/static/js/main.70068684.js",
+    "index.html": "/blog-page/index.html",
+    "main.4824783b.css.map": "/blog-page/static/css/main.4824783b.css.map",
+    "main.70068684.js.map": "/blog-page/static/js/main.70068684.js.map"
   },
   "entrypoints": [
     "static/css/main.4824783b.css",
